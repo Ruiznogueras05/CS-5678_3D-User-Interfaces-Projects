@@ -20,15 +20,15 @@ To learn more about the course, visit the official XR Collaboratory website:
 ## Projects Overview  
 Below are the three main projects completed during the course, each addressing unique aspects of interaction in virtual environments:
 
-1. **XRC Go-Go**  
+1. [**XRC Go-Go**](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects/tree/main/XRC_Gogo)  
    - Developed a VR interaction technique allowing users to manipulate objects at a distance using hand movements.
    - Explored how scaling and mapping affect user precision and comfort in VR.
 
-2. **XRC Balloon Selection**  
+2. [**XRC Balloon Selection**](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects/tree/main/XRC_BalloonSelection)  
    - Created a VR interface to select and manipulate virtual balloons using a combination of ray casting and proximity-based interaction.
    - Evaluated different techniques for selection accuracy and user preference.
 
-3. **XRC H-Prism**  
+3. [**XRC H-Prism**](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects/tree/main/XRC_HPrism)  
    - Designed a hybrid VR interaction technique for selecting and rotating virtual prisms.
    - Combined ray-based and grasp-based methods for seamless object manipulation.
 
