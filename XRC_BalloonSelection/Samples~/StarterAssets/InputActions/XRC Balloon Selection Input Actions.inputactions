@@ -1,0 +1,45 @@
+{
+    "name": "XRC Balloon Selection Input Actions",
+    "maps": [
+        {
+            "name": "Balloon Selection",
+            "id": "52f222fe-5c05-4292-b880-0da50593a71a",
+            "actions": [
+                {
+                    "name": "Normalized Radius",
+                    "type": "Value",
+                    "id": "796fb670-dd04-4050-9a6c-86f487823e7b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2a597136-0683-47df-bf8f-fe9384265390",
+                    "path": "<XRSimulatedController>{RightHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Normalized Radius",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "91e797db-fc78-4494-8feb-bd9155b72c0f",
+                    "path": "<MetaAimHand>{RightHand}/pinchStrengthIndex",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Normalized Radius",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,33 @@
+{
+	"name": "cs5678_2024sp.h_balloon_selection.ruiz.ger83",
+	"version": "0.1.0",
+	"displayName": "cs5678_2024sp.h_balloon_selection.ruiz.ger83",
+	"description": "This is a package template. Make sure to update this package with your information.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "https://cs5678-2024sp.github.io/h-balloon-selection-Ruiznogueras05CT",
+	"changelogUrl": "https://cs5678-2024sp.github.io/h-balloon-selection-Ruiznogueras05CT",
+	"licensesUrl": "https://cs5678-2024sp.github.io/h-balloon-selection-Ruiznogueras05CT",
+	"dependencies": {
+		"com.unity.xr.hands": "1.4.0",
+		"com.unity.xr.meta-openxr": "1.0.1",
+		"com.unity.xr.openxr" : "1.8.2",
+		"com.unity.xr.arfoundation" : "5.1.2"
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "XRC Balloon Selection Starter Assets",
+			"description": "Sample scene showcasing the implementations of the Balloon Selection technique",
+			"path": "Samples~/StarterAssets/"
+		}
+		
+	]
+}

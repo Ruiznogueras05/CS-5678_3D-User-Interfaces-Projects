@@ -1,0 +1,31 @@
+{
+	"name": "cs5678_2024sp.h_go_go.ruiz.ger83",
+	"version": "0.1.0",
+	"displayName": "cs5678_2024sp.h_go_go.ruiz.ger83",
+	"description": "This is a package template. Make sure to update this package with your information.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "https://cs5678-2024sp.github.io/h-go-go-Ruiznogueras05CT",
+	"changelogUrl": "https://cs5678-2024sp.github.io/h-go-go-Ruiznogueras05CT/changelog/CHANGELOG.html",
+	"licensesUrl": "https://cs5678-2024sp.github.io/h-go-go-Ruiznogueras05CT/changelog/CHANGELOG.html/license/LICENSE.html",
+	"dependencies": {
+		"edu.cornell.xrc.core": "0.1.4",
+		"com.unity.xr.interaction.toolkit": "2.4.3",
+		"com.unity.inputsystem": "1.6.3"
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "XRC Go-Go Starter Assets",
+			"description": "Sample scene showcasing the implementations of the Go-Go technique",
+			"path": "Samples~/StarterAssets/"
+		}
+	]
+}

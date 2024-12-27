@@ -1,0 +1,30 @@
+{
+	"name": "cs5678_2024sp.h_prism.g02",
+	"version": "0.1.0",
+	"displayName": "cs5678_2024sp.h_prism.g02",
+	"description": "This package contains an implementation of the PRISM interaction method.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "https://cs5678-2024sp.github.io/h-prism-g-02",
+	"changelogUrl": "https://cs5678-2024sp.github.io/h-prism-g-02",
+	"licensesUrl": "https://cs5678-2024sp.github.io/h-prism-g-02",
+	"dependencies": {
+		"com.unity.mathematics": "1.2.6",
+		"com.unity.xr.interaction.toolkit": "2.4.3"
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "XRC PRISM",
+			"description": "Contains sample scenes, and materials for PRISM implementation.",
+			"path": "Samples~/XRC PRISM"
+		}
+	]
+}

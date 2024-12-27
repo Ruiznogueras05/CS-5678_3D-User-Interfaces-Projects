@@ -1,0 +1,17 @@
+{
+    "name": "PRISMAssemblies",
+    "rootNamespace": "cs5678_2024sp.h_prism.g02",
+    "references": [
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
