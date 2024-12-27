@@ -20,7 +20,7 @@ To learn more about the course, visit the official XR Collaboratory website:
 ## Projects Overview  
 Below are the three main projects completed during the course, each addressing unique aspects of interaction in virtual environments:
 
-1. [**XRC Go-Go**](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects/tree/main/XRC_Gogo)  
+1. [**XRC Go-Go**](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects/tree/main/XRC_GoGo)  
    - Developed a VR interaction technique allowing users to manipulate objects at a distance using hand movements.
    - Explored how scaling and mapping affect user precision and comfort in VR.
 
